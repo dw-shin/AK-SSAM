@@ -6,7 +6,17 @@ This is a summer intensive course jointly organized by the Department of Mathema
 
 ---
 
-
 ## Topics for the final project
-- Solving heat equations with proper time discretizations
-- Solving convection-diffusion equations using FEM and investigating what happens when convection is dominated
+- [(Project 1)](https://colab.research.google.com/github/dw-shin/AK-SSAM/blob/main/projects/project_1.ipynb) Solving heat equations with proper time discretizations 
+	1. Complete the ipynb file for `Project 1`.
+	1. Do the experiments with various time step sizes and $h$.
+	1. Discuss the results.
+- [(Project 2)](https://colab.research.google.com/github/dw-shin/AK-SSAM/blob/main/projects/project_2.ipynb) Solving convection-diffusion equations using FEM and investigating what happens when convection is dominated 
+	1. Complete the ipynb file for `Project 2`.
+	1. Do the experiments with various diffusion coefficients ($\epsilon$).
+	1. Discuss the results and find the reason why spurious oscillations occur when the convection is dominated ($\epsilon << 1$).
+
+
+## Jupyter Notebook
+1. [FEM 1D](https://colab.research.google.com/github/dw-shin/AK-SSAM/blob/main/python_codes/fem_1d.ipynb)
+2. [FEM 2D](https://colab.research.google.com/github/dw-shin/AK-SSAM/blob/main/python_codes/fem_2d.ipynb)
