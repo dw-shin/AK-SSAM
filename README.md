@@ -19,4 +19,9 @@ This is a summer intensive course jointly organized by the Department of Mathema
 
 ## Jupyter Notebook
 1. [FEM 1D](https://colab.research.google.com/github/dw-shin/AK-SSAM/blob/main/python_codes/fem_1d.ipynb)
+
+	[solution](https://www.dropbox.com/scl/fi/05gzn3soehx8q5bkdn33d/fem_1d_sol.ipynb?rlkey=1mc7hpfguc6hnkizajv2ktfze&dl=0)
+
 2. [FEM 2D](https://colab.research.google.com/github/dw-shin/AK-SSAM/blob/main/python_codes/fem_2d.ipynb)
+
+	[solution](https://www.dropbox.com/scl/fi/km2arg87syuf1j1p18swy/fem_2d_sol.ipynb?rlkey=wephfxkng0dji3q11hr551y8u&dl=0)
